@@ -1,3 +1,17 @@
+# About
+
+A Chrome extension used to grab an image from a random subreddit post and display it on the newtab window.
+
+To use:
+
+First build using the command: `npm run build`
+This will create a `build` folder.
+In the chrome://extensions page, select `Load unpacked` and provide it the contents of the `build` folder.
+
+Open a new page in Chrome, and this tool will appear.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
